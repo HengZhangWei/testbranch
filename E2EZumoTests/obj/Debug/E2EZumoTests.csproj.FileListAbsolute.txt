@@ -1,0 +1,85 @@
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\E2EZumoTests.exe
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\E2EZumoTests.pdb
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\resources.pri
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\AppxManifest.xml
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\E2EZumoTests.build.appxrecipe
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\Microsoft.Live.Controls.dll
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\Microsoft.Live.dll
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\Microsoft.WindowsAzure.MobileServices.Managed.dll
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\App.g.i.cs
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\App.g.cs
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\Common\StandardStyles.g.cs
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\MainPage.g.i.cs
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\MainPage.g.cs
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\XamlTypeInfo.g.cs
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\App.xaml
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\Common\StandardStyles.xaml
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\MainPage.xaml
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\E2EZumoTests.exe
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\E2EZumoTests.pdb
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\E2EZumoTests.csproj.GenerateResource.Cache
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\priconfig.xml
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\layout.resfiles
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\resources.resfiles
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\pri.resfiles
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\LanguageQualifiers.txt
+C:\Mobile Service apps\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\ProjectArchitectures.txt
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\App.g.i.cs
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\App.g.cs
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\Common\StandardStyles.g.cs
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\MainPage.g.i.cs
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\MainPage.g.cs
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\XamlTypeInfo.g.cs
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\App.xaml
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\Common\StandardStyles.xaml
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\MainPage.xaml
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\E2EZumoTests.exe
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\E2EZumoTests.pdb
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\E2EZumoTests.exe
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\E2EZumoTests.pdb
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\resources.pri
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\AppxManifest.xml
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\E2EZumoTests.build.appxrecipe
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\Microsoft.Live.Controls.dll
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\Microsoft.Live.dll
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\bin\Debug\Microsoft.WindowsAzure.MobileServices.Managed.dll
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\E2EZumoTests.csproj.GenerateResource.Cache
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\priconfig.xml
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\layout.resfiles
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\resources.resfiles
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\pri.resfiles
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\LanguageQualifiers.txt
+C:\Naren MobileService Test\latest from TFS\E2EZumoTest_CS\E2EZumoTests\E2EZumoTests\obj\Debug\ProjectArchitectures.txt
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\E2EZumoTests.exe
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\E2EZumoTests.pdb
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\bin\Debug\E2EZumoTests.exe
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\bin\Debug\E2EZumoTests.pdb
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\bin\Debug\resources.pri
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\bin\Debug\AppxManifest.xml
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\bin\Debug\E2EZumoTests.build.appxrecipe
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\bin\Debug\Microsoft.Live.Controls.dll
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\bin\Debug\Microsoft.Live.dll
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\bin\Debug\Microsoft.WindowsAzure.MobileServices.Managed.dll
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\App.g.i.cs
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\App.g.cs
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\Common\StandardStyles.g.cs
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\MainPage.g.i.cs
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\MainPage.g.cs
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\XamlTypeInfo.g.cs
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\App.xaml
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\Common\StandardStyles.xaml
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\MainPage.xaml
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\E2EZumoTests.csproj.GenerateResource.Cache
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\priconfig.xml.intermediate
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\layout.resfiles.intermediate
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\resources.resfiles.intermediate
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\pri.resfiles.intermediate
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\priconfig.xml
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\layout.resfiles
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\resources.resfiles
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\pri.resfiles
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\LanguageQualifiers.txt
+D:\Users\v-weiqi\Desktop\CS\E2EZumoTests\E2EZumoTests\E2EZumoTests\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="BUILD.bbd8d9ae-be55-4d84-a74a-2f9d6fcb7d40" Publisher="CN=test" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>E2EZumotest</DisplayName>
+    <PublisherDisplayName>v-narenp</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="E2EZumoTests.App">
+      <VisualElements DisplayName="E2EZumoTests" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="E2EZumoTests" ForegroundText="light" BackgroundColor="#464646" ToastCapable="true">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
